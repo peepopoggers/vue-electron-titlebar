@@ -1,0 +1,25 @@
+{
+  "name": "vue-electron-titlebar",
+  "version": "0.0.1",
+  "description": "A titlebar for electron with vue framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uriegel/vue-electron-titlebar.git"
+  },
+  "keywords": [
+    "vue-plugin",
+    "vue",
+    "electron",
+    "javascript"
+  ],
+  "author": "Uwe Riegel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uriegel/vue-electron-titlebar/issues"
+  },
+  "homepage": "https://github.com/uriegel/vue-electron-titlebar#readme"
+}
