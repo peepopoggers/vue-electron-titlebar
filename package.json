@@ -1,6 +1,6 @@
 {
   "name": "vue-electron-titlebar",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A titlebar for electron with vue framework",
   "main": "index.js",
   "scripts": {
