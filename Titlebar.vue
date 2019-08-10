@@ -37,6 +37,7 @@ export default {
     display: flex;
     color: var(--vue-electron-titlebar-color);
     background-color: var(--vue-electron-titlebar-background-color);
+    height: var(--vue-electron-titlebar-height);
 }
 img {
     height: var(--vue-electron-titlebar-height);
